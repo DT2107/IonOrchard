@@ -1,0 +1,11 @@
+{
+  "name": "ion-orchard-food-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ION Orchard Food Directory — Mario Edition, curated by Dorothy Tay",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site — nothing to build'",
+    "start": "npx serve ."
+  }
+}
